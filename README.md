@@ -1,7 +1,7 @@
 # Data
 Intersection RandomTrip Simulation Data
 
-SumoTrace.csv: RandomTrip生成的交叉口随机车流轨迹数据
+sumoTrace.csv: RandomTrip生成的交叉口随机车流轨迹数据
 
 SumoTrace_p2.csv：基于SumoTrace.csv添加了三种不同车辆类型（在pandas处理得到，sumo的RandomTrip似乎不支持设置不同车辆类型）
 
