@@ -1,7 +1,7 @@
 # Data
 Intersection RandomTrip Simulation Data
 
-**csv文件不要用Excel打开！用写字板打开！csv文件不要用Excel打开！用写字板打开！csv文件不要用Excel打开！用写字板打开！csv文件不要用Excel打开！用写字板打开！csv文件不要用Excel打开！用写字板打开！**
+**csv文件不要用Excel打开！用写字板打开！**
 
 sumoTrace.csv: RandomTrip生成的交叉口随机车流轨迹数据
 
