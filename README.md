@@ -1,7 +1,7 @@
 # Data
 Intersection RandomTrip Simulation Data
 
-SumoTrace.csv:RandomTrip生成的交叉口随机车流轨迹数据
+SumoTrace.csv: RandomTrip生成的交叉口随机车流轨迹数据
 
 summary.zip：sumo的其他配置文件
 
